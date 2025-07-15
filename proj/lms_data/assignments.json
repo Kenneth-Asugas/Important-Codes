@@ -1,0 +1,26 @@
+{
+    "CSE101": [],
+    "MTH101": [],
+    "PHY101": [],
+    "MAT002": [
+        {
+            "title": "Assignment",
+            "description": "YES",
+            "posted_by": "123456789-F"
+        }
+    ],
+    "CPE103L": [
+        {
+            "title": "Simple Program",
+            "description": "Make a Python program displaying \"Hello World\"",
+            "posted_by": "123456789-F"
+        }
+    ],
+    "CPE103L": [
+        {
+            "title": "Looping",
+            "description": "Make A program using a loop",
+            "posted_by": "123456789-M"
+        }
+    ]
+}

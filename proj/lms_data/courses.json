@@ -1,0 +1,17 @@
+[
+    {
+        "course_id": "CPE103L",
+        "name": "Object Oriented Programming (Lab)",
+        "instructor": "instructor1"
+    },
+    {
+        "course_id": "MAT002",
+        "name": "Calculus 2 (Integral Calculus)",
+        "instructor": "instructor2"
+    },
+    {
+        "course_id": "PHY001L",
+        "name": "Physics For Engineers (Lab)",
+        "instructor": "instructor1"
+    }
+]
